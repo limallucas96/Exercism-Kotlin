@@ -1,7 +1,7 @@
 import org.junit.Test
 import kotlin.test.assertEquals
 
-class HelloWorldTest {
+class TwoFer {
 
     @Test
     fun helloWorldTest() {
